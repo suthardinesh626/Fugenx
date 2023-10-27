@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Zerror Studios",
+      "role": "FullStack Developer",
+      "period": "March 2023 - April 2023",
+      "responsibilities": [
+        "Developed the frontend of a political party website using the NEXT.JS framework.",
+        "Implemented scroll optimization with GSAP for a seamless scrolling experience.",
+        "Employed lazy loading techniques for heavy graphic content.",
+        "Implemented dynamic routing to efficiently manage multiple links with similar content.",
+        "Developed multi-level login forms and integrated backend APIs for secure data connectivity, authentication, and authorization."
+      ]
+    },
+    {
+      "name": "Proteus Advisors Pvt Ltd",
+      "role": "Frontend Developer",
+      "period": "August 2022 - April 2022",
+      "responsibilities": [
+        "Restructured and built React.js code to enhance the architecture and maintainability of the business landing page.",
+        "Employed modern UI/UX principles to create a responsive design, optimizing the page's presentation.",
+        "Facilitated seamless sharing with potential clients."
+      ]
+    }
+  ]
+  
